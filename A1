@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "firmware": "https://raw.githubusercontent.com/Osnia1217/OTA-0518-A1/main/firmware.bin"  
+  "version": "1.1.0",
+  "firmware": "https://raw.githubusercontent.com/Osnia1217/OTA-0518-A1/main/sketch_apr28a.ino.bin"
 }
